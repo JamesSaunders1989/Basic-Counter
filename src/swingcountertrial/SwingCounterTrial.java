@@ -35,6 +35,8 @@ public class SwingCounterTrial extends JFrame implements ActionListener{
         txt1.setPreferredSize(new Dimension(100,25));
         txt1.setText("" + count);
         
+        
+        
         pnl.add(lbl1);
         pnl.add(txt1);
         pnl.add(btn1);
